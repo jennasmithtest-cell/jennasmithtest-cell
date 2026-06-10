@@ -2,8 +2,6 @@
 <h3 align="center">QA Engineer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jennasmithtest-cell" alt="jennasmithtest-cell" /></a> </p>
-
 - 🔭 I’m currently working on **Building automation framework using cypress**
 
 - 🌱 I’m currently learning **AI Testing, CI/CD**
