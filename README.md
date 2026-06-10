@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jenna Smith</h1>
-<h3 align="center">QA Engineer</h3>
+<h3 align="center">QA Engineer | Test Automation Enthusiast</h3>
 
 
-- 🔭 I’m currently working on **Building automation framework using cypress**
+- 🔭 I’m currently working on **Building automated test frameworks using Cypress and Selenium**
 
-- 🌱 I’m currently learning **AI Testing, CI/CD**
+- 🌱 I’m currently learning **AI Testing, Cypress Automation, and CI/CD with Jenkins**
 
 - 💬 Ask me about **Manual Testing, API Testing**
 
