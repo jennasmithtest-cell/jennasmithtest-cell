@@ -23,7 +23,7 @@
 
 <h3 align="left">My Top Open Source Projects</h3>
 <p align="left"> 
-    <img src="https://github.com/jennasmithtest-cell/jennasmithtest-cell/blob/main/1.png" width="400" height="200" alt="Project Card" />
+    <img src="https://github.com/jennasmithtest-cell/jennasmithtest-cell/blob/main/1.png" width="300" height="150" alt="Project Card" />
   </a>
 </p>
 
