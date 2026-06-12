@@ -27,6 +27,19 @@
   <img src="https://github.com/jennasmithtest-cell/jennasmithtest-cell/blob/main/2.png" width="300"/>
 </p>
 
+<h3 align="left">My Top Open Source Projects</h3>
+
+<table>
+<tr>
+<td>
+<img src="https://raw.githubusercontent.com/jennasmithtest-cell/jennasmithtest-cell/main/1.png" width="350" alt="QA Automation Framework">
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/jennasmithtest-cell/jennasmithtest-cell/main/2.png" width="350" alt="Web Scraper Tool">
+</td>
+</tr>
+</table>
 
 ### Badges
 
