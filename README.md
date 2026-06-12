@@ -13,6 +13,8 @@
 - 💬 Ask me about **Manual Testing, API Testing, Test Cases, Bug Reporting, and QA Best Practices**
 
 - 📫 How to reach me **jenna.smith@example.com**
+  
+- 📌 Open to QA Intern, Associate QA Engineer, and Junior QA Engineer opportunities.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
