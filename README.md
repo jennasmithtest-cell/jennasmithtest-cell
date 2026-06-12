@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Building automation framework using cypress**
 
-- 🌱 I’m currently learning **AI Testing, CI/CD**
+- 🌱 I’m currently learning **Manual Testing - API Testing using Postman - Test Automation using Cypress**
 
-- 👯 I’m looking to collaborate on **Open-source QA automation and software testing projects**
+- 👥  I'm looking to collaborate on **QA Automation Projects, Test Case Design, API Testing, Open Source Testing Projects, and AI Testing Initiatives**
 
 - 💬 Ask me about **Manual Testing, API Testing, Test Cases, Bug Reporting, and QA Best Practices**
 
