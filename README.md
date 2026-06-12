@@ -24,7 +24,6 @@
 <h3 align="left">My Top Open Source Projects</h3>
 <p align="left">   
   <img src="https://github.com/jennasmithtest-cell/jennasmithtest-cell/blob/main/1.png" width="300"/>
-   &nbsp;&nbsp;
   <img src="https://github.com/jennasmithtest-cell/jennasmithtest-cell/blob/main/2.png" width="300"/>
 </p>
 
