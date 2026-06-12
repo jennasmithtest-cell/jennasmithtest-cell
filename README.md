@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenna Smith</h1>
-<h3 align="center">I'm an aspiring QA Engineer with a strong interest in software quality and testing.</h3>
+<h3 align="center">Junior QA Engineer | Manual Testing | API Testing | Learning Test Automation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennasmithtest-cell&label=Profile%20views&color=0e75b6&style=flat" alt="jennasmithtest-cell" /> </p>
 
