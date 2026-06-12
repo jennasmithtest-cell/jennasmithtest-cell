@@ -36,14 +36,3 @@
 <a href="http://www.github.com/jennasmithtest-cell"><img src="https://github-readme-stats.vercel.app/api?username=jennasmithtest-cell&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jennasmithtest-cell's GitHub stats" /></a>
 
 <a href="http://www.github.com/jennasmithtest-cell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jennasmithtest-cell&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jenna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/jenna"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
