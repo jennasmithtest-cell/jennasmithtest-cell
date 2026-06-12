@@ -29,8 +29,10 @@
 </p>
 
 
-<h3 align="left">Badges</h3>
+### Badges
+
 <b>My GitHub Stats</b>
+
 <a href="http://www.github.com/jennasmithtest-cell"><img src="https://github-readme-stats.vercel.app/api?username=jennasmithtest-cell&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jennasmithtest-cell's GitHub stats" /></a>
 
 <a href="http://www.github.com/jennasmithtest-cell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jennasmithtest-cell&stroke=ffffff&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=ffffff&currStreakLabel=0f172a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
