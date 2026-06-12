@@ -26,10 +26,8 @@
 
 <h3 align="left">📺 Latest YouTube Videos </h3>
 
-<h2>📕 Top Projects I've Contributed To</h2>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+<h3 align="left">📕 Top Projects I've Contributed To</h3>
+<p align="center"> 
     <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=9&theme=tokyonight&combine_all_yearly_contributions=true" />
   </a>
 </p>
